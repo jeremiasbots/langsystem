@@ -1,0 +1,6 @@
+{
+    "prefix": "prefix",
+    "owner": ["tu id"],
+    "embedcolor": "color hexadecimal embeds",
+    "embedfooter": "footer de los embeds"
+}

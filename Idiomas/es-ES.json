@@ -1,0 +1,22 @@
+{
+    "setprefix": {
+        "adminmessage": {
+            "var1": "No tienes el permiso de `ADMINISTRADOR` por lo tanto no puedes poner un nuevo prefijo para el bot."
+        },
+        "res": {
+            "var2": "Por favor especifica un nuevo prefix para el bot."
+        },
+        "actu": {
+            "var3": "El nuevo prefix del bot para este servidor ha sido actualizado a",
+            "var4": "El prefix del bot para este servidor ahora es"
+        }
+    },
+    "resetprefix": {
+        "adminmessage": {
+            "var5": "No tienes el permiso `ADMINISTRADOR` por lo tanto no puedes resetear el prefix del bot."
+        },
+        "end": {
+            "var6": "El prefix del bot en este servidor ha sido actualizado a"
+        }
+    }
+}
