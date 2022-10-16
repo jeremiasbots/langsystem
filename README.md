@@ -2,5 +2,5 @@
 
 **No hay que dar ningun tipo de creditos (no se puede vender)**
 
-**Hecho por JeremiasBots#3355 Founder of Personas Finas 😎 and JereDev Team**
+**Hecho por JeremiasBots#2622 Founder of Personas Finas 😎 and JereDev Team**
 
